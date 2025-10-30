@@ -5,18 +5,18 @@
 
 # 👋 Hi — I'm Mohamed Mahmoud
 
-🔒 **Cyber Security Specialist | Python Developer | Bug Bounty Hunter | Systems Analyst | Advanced Malware Analyst**
+🔒 **Cyber Security Specialist | Python Developer | Bug Bounty Enthusiast | Systems Analyst | Advanced Malware Analyst**
 
-[![Follow me](https://img.shields.io/github/followers/MohamedMahmoud?label=Follow&style=social)](https://github.com/MohamedMahmoud)  
+[![GitHub](https://img.shields.io/github/followers/MohamedMahmoud?label=Follow&style=social)](https://github.com/MohamedMahmoud)  
 [![Email](https://img.shields.io/badge/Email-momomomomp37%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:momomomomp37@gmail.com)
 [![Top Langs](https://img.shields.io/badge/Top%20Langs-Python-blueviolet?style=flat-square)](#)
 
 ---
 
 ## 💡 About Me
-I'm a passionate **Cyber Security** professional with deep interest in vulnerability research, malware analysis and threat intelligence. I research the **dark web** and **deep web** for intelligence and historical context — always under legal and ethical boundaries. I build my own security tools (mainly Python), participate in bug bounty programs, and design frameworks for automated triage and reconnaissance.
+I'm a passionate **Cyber Security** professional with deep interest in vulnerability research, malware analysis, and threat intelligence. I build my own security tools (mainly Python), participate in bug bounty programs, and design frameworks for automated triage and reconnaissance.
 
-I focus on combining systems analysis with practical tooling to speed up research and improve defensive posture.
+I focus on combining **systems analysis** with practical tooling to speed up research and improve defensive security posture.
 
 ---
 
@@ -31,20 +31,18 @@ I focus on combining systems analysis with practical tooling to speed up researc
 - `Bettercap` — MITM / network manipulation (lab-only)  
 - `Aircrack-ng` — wireless security testing (authorized tests)  
 - Custom Python tooling — recon, triage, parsers, automation  
-- Working on Bluetooth security & wireless communications research
+- Bluetooth security & wireless communications research (controlled labs)
 
-> ⚠️ Ethics: All testing, tool development and research is performed in controlled labs or with explicit authorization. I follow responsible disclosure and applicable laws.
+> ⚠️ Ethics: All testing, tool development, and research is performed in controlled labs or with explicit authorization. I follow responsible disclosure and legal guidelines.
 
 ---
 
 ## 🛠️ Tools I Develop
 I build custom Python tools to help with:
 - Reconnaissance & authorized data collection  
-- Automated static/dynamic malware triage helpers  
-- Bug bounty workflow automation (scanners, report templates)  
+- Automated malware triage  
+- Bug bounty workflow automation  
 - OSINT playbooks and parsers
-
-*(Projects listed below — links to repos once added.)*
 
 ---
 
@@ -52,14 +50,14 @@ I build custom Python tools to help with:
 - Advanced Malware Analysis & automated detection  
 - OSCP study material — improving exploitation & post-exploitation skills  
 - OSINT frameworks and scalable OSINT tooling  
-- Bluetooth & wireless attack surface research (controlled labs)
+- Wireless & Bluetooth security research (controlled labs)
 
 ---
 
-## 🔗 Projects (examples — add links)
+## 🔗 Projects (examples)
 - **malware-inspector** — automated static/dynamic triage (WIP)  
-- **bounty-automation** — Python scripts for bug bounty triage  
-- **osint-kits** — notebooks and playbooks for non-intrusive OSINT  
+- **bounty-automation** — Python scripts for bug bounty workflow  
+- **osint-kits** — notebooks and playbooks for OSINT  
 - **my-tools/** — collection of custom recon and triage scripts
 
 ---
@@ -68,30 +66,27 @@ I build custom Python tools to help with:
 ![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedMahmoud&show_icons=true&theme=default)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMahmoud&layout=compact&theme=default)
 
-*(Replace `MohamedMahmoud` with your GitHub username if different.)*
-
 ---
 
 ## 📫 Contact
 - **Email:** momomomomp37@gmail.com  
 - **GitHub:** https://github.com/MohamedMahmoud  
-- **LinkedIn:** *(add your LinkedIn URL here if you want it displayed)*
+- **LinkedIn:** *(add LinkedIn URL here if you have)*
 
 ---
 
 ## ⚠️ Responsible / Legal Notice
-All techniques, tools and references mentioned here are intended for authorized, defensive, or educational use only. Unauthorized access to systems, networks, or data is illegal. I abide by responsible disclosure and ethical research guidelines.
+All techniques, tools, and references mentioned here are intended for **authorized, defensive, or educational use only**. Unauthorized access to systems or networks is illegal. I adhere to responsible disclosure and ethical research.
 
 ---
 
-## 🇪🇬 نبذة قصيرة بالعربي (مختصر)
-أنا **محمد محمود** — متخصص أمن سيبراني ومطوِّر بايثون، شغوف بالبحث في الشبكة المظلمة/العميقة، تحليل البرمجيات الخبيثة، وتصميم أدوات أمنية خاصة. أدرس محتوى OSCP وأعمل على OSINT وأبحاث بلوتوث والاتصالات داخل مختبرات مُسيطر عليها وبإطار قانوني.
+## 🇪🇬 نبذة قصيرة بالعربي
+أنا **محمد محمود** — متخصص أمن سيبراني ومطوّر أدوات بايثون، شغوف بتحليل البرمجيات الخبيثة، OSINT، وتصميم أدوات بحثية وأمنية. أدرس محتوى OSCP وأجري أبحاثًا في أطر مختبرية آمنة ومسؤولة.
 
 ---
 
-⭐️ If you want, I can now:
-- Replace `MohamedMahmoud` with your real GitHub username throughout (if different).  
-- Add direct repo links and project READMEs for each tool you want showcased.  
-- Generate badge links for HackerOne / Bugcrowd if you have profiles there.  
-- Produce a fully bilingual RTL README (Arabic-first) version.
-
+### 🔹 تعديل هذا README للانترفيو:
+1. استخدم لغة واضحة، تركز على **البحث والأمن الأخلاقي**.  
+2. أزل أي إشارات قد تفهم خطأ، مثل “الإنترنت المظلم” بدون سياق.  
+3. البريد الحالي رسمي كفاية، أو استخدم بريد مخصص للانترفيو.  
+4. ركز على المشاريع والأدوات العملية التي تظهر مهاراتك الفنية.  
